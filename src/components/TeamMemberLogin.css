@@ -1,0 +1,29 @@
+.Header{
+
+    display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+
+  width: 100%;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 4em 1em;
+}
+.main h2{
+    color:rgb(22, 21, 43);
+}
+.main{
+  text-align:center;
+}
+.main button{
+    border: 1px solid #D6D9DC;
+  background-color:#3071da;
+  border-radius: 3px;
+  width: 10%;
+
+  font-size: 14px ;
+  margin: 0;
+  padding: 7px;
+  height: initial;
+  text-align:center; 
+}
