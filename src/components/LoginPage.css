@@ -1,0 +1,58 @@
+.loginbox {
+  margin-bottom: 40px;
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+  flex-wrap: wrap; 
+
+
+
+}
+
+.loginbox  input {
+  background-color: #FFFFFF;
+  border: 1px solid #D6D9DC;
+  border-radius: 3px;
+  width: 10%;
+
+  font-size: 14px ;
+  margin: 0;
+  padding: 7px;
+  height: initial;
+
+}
+
+.loginbox  label {
+  margin-bottom: 15px;
+ 
+}
+.loginbox button{
+  
+  border: 1px solid #D6D9DC;
+  background-color:#3071da;
+  border-radius: 3px;
+  width: 10%;
+  
+  font-size: 14px ;
+  margin: 0;
+  padding: 7px;
+  height: initial;
+
+}
+.Header{
+
+    display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+
+  width: 100%;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 4em 1em;
+}
+.FEATURES{
+    margin: 0 auto;
+    padding: 4em 1em;
+     color:rgb(239, 64, 16);
+     font-family:Roboto Light;
+}
